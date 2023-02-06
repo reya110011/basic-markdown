@@ -49,8 +49,8 @@
 
 ***
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/google_2015_logo.svg/1280px-google_2015_logo.svg.png" width="200px"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/google_2015_logo.svg/1280px-google_2015_logo.svg.png" width="200px" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/google_2015_logo.svg/1280px-google_2015_logo.svg.png" width="200px"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/google_2015_logo.svg/1280px-google_2015_logo.svg.png" width="200px" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/google_2015_logo.svg/1280px-google_2015_logo.svg.png" width="200px"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/google_2015_logo.svg/1280px-google_2015_logo.svg.png" width="200px" />
